@@ -40,8 +40,7 @@ pip install -r requirements.txt
 Navigate to the `scripts/` folder and launch training:
 
 ```bash
-cd scripts
-./train.sh
+python utill_gpu.py
 ```
 
 ## Datasets
