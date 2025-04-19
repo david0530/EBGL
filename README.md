@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains the code implementation for the IEEE ISBI 2024 paper that proposes a novel Graph Neural Network (GNN) framework incorporating **edge-to-edge (eFC)** and **node-to-node** relationships to better analyze functional brain connectivity. Unlike traditional GNNs that focus solely on node attributes, this method co-embeds edge functional connectivity to capture dynamic brain interactions more effectively.
+This repository contains the code implementation for the IEEE ISBI 2025 paper that proposes a novel Graph Neural Network (GNN) framework incorporating **edge-to-edge (eFC)** and **node-to-node** relationships to better analyze functional brain connectivity. Unlike traditional GNNs that focus solely on node attributes, this method co-embeds edge functional connectivity to capture dynamic brain interactions more effectively.
 
 ## Key Features
 
