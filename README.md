@@ -1,6 +1,6 @@
 # Edge-Boosted Graph Learning
 
-[**Edge-Boosted Graph Learning for Functional Brain Connectivity Analysis**](./IEEE_ISBI___David.pdf)  
+[**Edge-Boosted Graph Learning for Functional Brain Connectivity Analysis**](https://arxiv.org/abs/2504.14796)  
 📄 Published in IEEE ISBI 2025  
 📚 Paper: *"EDGE-BOOSTED GRAPH LEARNING FOR FUNCTIONAL BRAIN CONNECTIVITY ANALYSIS"*
 
